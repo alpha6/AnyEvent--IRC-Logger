@@ -1,0 +1,3 @@
+Basically irc logger based on AnyEvent::IRC.
+
+You cat add some functions, yep.
